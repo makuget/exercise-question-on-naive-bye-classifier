@@ -1,1 +1,1 @@
-# exercise-question-on-naive-bye-classifier
+# classifiying wine dataset on sklearn dataset usin naive bye classifier , exercise
